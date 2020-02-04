@@ -1,5 +1,4 @@
 echo ------------------------------------
-echo SnoBorder Saratoga 
 echo Running Mortgage and Realty system
 echo Press Ctrl-c to quit
 echo ------------------------------------
