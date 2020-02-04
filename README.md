@@ -1,4 +1,4 @@
-# saratoga
+# mortgage engine
 
 Installation:
 
@@ -15,7 +15,7 @@ $ ./install_nodejs.sh
 
 $ npm install
 
-$ ./saratoga_remote.sh
+$ ./m_remote.sh
 
 The engine runs on port 5555. Test the instance http://<ip address>:5555
 
