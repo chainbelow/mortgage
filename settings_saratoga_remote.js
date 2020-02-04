@@ -1,5 +1,5 @@
 /** 
- * Snoborder Saratoga 
+ * Mortgage 
  * Released under MIT license
  */
 module.exports = {
@@ -9,12 +9,12 @@ module.exports = {
     debugMaxLength: 1000,
     editorTheme: {
         page: {
-            title: "Snoborder Saratoga",
+            title: "Mortgage",
             favicon: "/home/bitnami/.saratoga/sara-libs/favicon.ico",
             css: "/home/bitnami/.saratoga/sara-libs/node.css"
         },
         header: {
-            title: "Snoborder Saratoga",
+            title: "Mortgage",
             image: "/home/bitnami/.saratoga/snoborder.png", // or null to remove image
             url: "http://snoborder.com" // optional url to make the header text/image a link to this url
         },
